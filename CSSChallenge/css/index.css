@@ -1,0 +1,21 @@
+div {
+    text-align: center;
+    font-family: "Times New Roman", Times, serif;
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+    margin-left: 10px
+}
+#box_fruit {
+    background-color: red;
+    float: left;
+}
+#box_meat {
+    background-color:aqua;
+    float: left;
+    
+}
+#box_flower {
+    background-color:yellow;
+    float: left;
+}
